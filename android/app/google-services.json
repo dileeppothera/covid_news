@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29546629112",
+    "project_id": "covid-news-ea568",
+    "storage_bucket": "covid-news-ea568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29546629112:android:a04e4511e06d532b5a380d",
+        "android_client_info": {
+          "package_name": "com.example.covid_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29546629112-9tu4kk4egpobus4o1c3s050ou02vcipn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAucIsVdGnSWP_hnmn2Wskf4HS7ipcWd5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29546629112-9tu4kk4egpobus4o1c3s050ou02vcipn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
